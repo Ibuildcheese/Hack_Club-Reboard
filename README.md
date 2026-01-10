@@ -1,5 +1,5 @@
 # The ReBoard
-This is an 87 key custom ANSI mechanical keyboard with a Raspberry Pi Pico microcontroller using QMK Software
+This is an 87 key custom ANSI mechanical keyboard with a Raspberry Pi Pico microcontroller using QMK Software to program the Pico.
 
 
 
@@ -7,7 +7,10 @@ This is an 87 key custom ANSI mechanical keyboard with a Raspberry Pi Pico micro
 
 
 
-
+Screenshots of Design: 
+| PCB - Front | PCB - Back |
+| - | - |
+| i | u |
 
 
 
@@ -25,3 +28,5 @@ This is an 87 key custom ANSI mechanical keyboard with a Raspberry Pi Pico micro
 | 1x | 3d Printed Case | N/A | N/A | I will print it myself |
 | 1x | Raspberry Pi Pico | $0.99 | [Link](https://www.aliexpress.us/item/3256806652932348.html?spm=a2g0o.productlist.main.8.44ffuTLKuTLKsE&aem_p4p_detail=2026010718244013304767345269600011022831&algo_pvid=491d9255-221c-4dfd-ad03-dacfc034d7d2&algo_exp_id=491d9255-221c-4dfd-ad03-dacfc034d7d2-7&pdp_ext_f=%7B"order"%3A"257"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21USD%213.75%210.99%21%21%2126.04%216.86%21%402101ea8c17678390808077217e18be%2112000038471919200%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A715067b2%3Bm03_new_user%3A-29895%3BpisId%3A5000000197827679&curPageLogUid=cVG8WUSqI175&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006839247100%7C_p_origin_prod%3A&search_p4p_id=2026010718244013304767345269600011022831_2&_gl=1*11bd334*_gcl_aw*R0NMLjE3Njc2NzA0MjQuQ2p3S0NBaUEzLTNLQmhCaUVpd0EyeDdGZEFBaGpWenhGb3o1c0NHWmVUbjdBRTVpWGpJSkRzd1dDSWdHanBCTC1wNl8xd2lnMlpEN2d4b0NCRUFRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3Njc2NzA0MjQuQ2p3S0NBaUEzLTNLQmhCaUVpd0EyeDdGZEFBaGpWenhGb3o1c0NHWmVUbjdBRTVpWGpJSkRzd1dDSWdHanBCTC1wNl8xd2lnMlpEN2d4b0NCRUFRQXZEX0J3RQ..*_gcl_au*Mjc0MDIyNDQyLjE3NjIyOTgzNzU.*_ga*MTg3Mzg2ODk5LjE3Njc2NzA0MjQ.*_ga_VED1YSGNC7*czE3Njc4MzY4NzgkbzIkZzEkdDE3Njc4MzkwODIkajU2JGwwJGgw#nav-specification) | --- |
 | N/A | Total | --- | N/A | N/A |
+
+Screenshots of BOM
