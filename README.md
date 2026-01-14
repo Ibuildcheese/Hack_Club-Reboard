@@ -37,8 +37,8 @@ Screenshots of Design:
 | x90 | Cherry MX Blue Switches | $34.50 | [Link](https://www.aliexpress.us/item/3256806124797516.html?) | Color: Blue, 90pcs |
 | x98 | Cherry Profile Keycaps | $11.72 | [Link](https://www.aliexpress.us/item/3256808041449227.html?) | color: beige |
 | x5 | Stabilizers | $0.99 | [Link](https://www.aliexpress.us/item/2251832533420646.html?) | 1x6.25 (6u or 7u) + 4x2u |
-| x100 | Diodes | $1.30 | [link](https://www.aliexpress.us/item/3256807350544438.html?) | 100pc option |
-| 1x | PCB | $21.35 | [link](JLCPCB.com) | --- |
+| x100 | Diodes | $1.30 | [Link](https://www.aliexpress.us/item/3256807350544438.html?) | 100pc option |
+| 1x | PCB | $21.35 | [Link](https://jlcpcb.com) | --- |
 | 1x | 3d Printed Case | --- | --- | I will print it myself |
 | 1x | Raspberry Pi Pico | $3.75 | [Link](https://www.aliexpress.us/item/3256806652932348.html?) | --- |
 | --- | Total | --- | --- | --- |
