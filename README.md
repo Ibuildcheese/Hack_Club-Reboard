@@ -43,4 +43,8 @@ Screenshots of Design:
 | 1x | Raspberry Pi Pico | $3.75 | [Link](https://www.aliexpress.us/item/3256806652932348.html?) | --- |
 | --- | Total | $73.61 | --- | --- |
 
-Screenshots of BOM
+| BOM - Screenshot - PCB |
+| :-: |
+| ![PCB-BOM-SS](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/80fd7cb0da59d3ecff058ceaa1e175484aef37ea/BOM-Screenshots/Screenshot%202026-01-13%20235434.png) |
+| BOM - Screenshot - AliExpress |
+| ![AliExpress-BOM-SS](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/80fd7cb0da59d3ecff058ceaa1e175484aef37ea/BOM-Screenshots/Screenshot%202026-01-13%20234144.png) |
