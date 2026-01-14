@@ -1,11 +1,17 @@
 # The ReBoard
-This is an 87 key custom ANSI mechanical keyboard with a Raspberry Pi Pico microcontroller using QMK Software to program the Pico. All keys in the firmware are 100% ANSI since i did not want any miscommunications or things not working. Also, i am using Cherry MX Blue switches.
+This is an 87 key custom ANSI mechanical keyboard with a Raspberry Pi Pico microcontroller using QMK Software to program the Pico. All keys in the firmware are 100% ANSI and I am using Cherry MX Blue switches.
 
 ## Why/how i made this
----YAP WARNING---
-Firstly, i want to say that this will be the first PCB that i have ever made and it was all because i thought making a new keyboard would be easier than cleaning my old one. My dell keyboard, sk-8125, my dad bought before i was born, and it was discontinued 10 yrs ago, and because of that i comitted myself to making a keyboard better than something from that time period by myself. first I looked up a bunch of tutorial videos but since they didnt help me at all i decided to just get started and go from there. this took multiple weeks to complete, even though the journal says it was a few hours, there was a lot of time in between from waiting on a friend to answer a question i had to having to completely scrapping my initial 100% keyboard i had in mind because of some fatal errors i made during the schematic. It's crazy even to me how i even began to design this keyboard, even though to others it may see this as a single day of work, because with the amount of issues and redos i encountered, i never would have thought i'd finish in time, let alone ~20 days before the deadline. Even though all this inexperience did come at a cost (i.e. spending 3 whole days to find a 3d-model of a cherry MX switch) i still cant thank Hack Club enough for giving me the opportunity to actually get started making amazing projects like these and being able to learn and problem solve along the way.
+Firstly, i want to say that this will be the first PCB that i have ever made and it was all because i thought making a new keyboard would be easier than cleaning my old one. My dell keyboard, sk-8125, my dad bought before i was born, and it was discontinued 10 years ago, so i comitted myself to making a keyboard better than something from that time period by myself. Firstly, I looked up a bunch of tutorial videos but since they didn't help me at all i decided to just get started and go from there however, there was a lot of time in between from waiting on a friend to answer a question i had to having to completely scrapping my initial 100% keyboard i had in mind because of some fatal errors i made during the schematic. With the amount of issues and redos i encountered, i never would have thought i'd finish in time, let alone ~15 days before the deadline. Even though all this inexperience did come at a cost (i.e. spending 3 whole days to find a 3d-model of a cherry MX switch) i still cant thank Hack Club enough for giving me the opportunity to actually get started making amazing projects like these and being able to learn and problem solve along the way.
 
+##Completion Chart
 
+| Name | Status | Extra |
+| :-: | :-: | :-: |
+| PCB | Designed and order ready |  |
+| PCB-Parts | Chosen, order ready |  |
+| Case | Designed, not yet printed |  |
+| Firmware | Configured, not yet tested on hardware |  |
 
 
 
