@@ -41,6 +41,6 @@ Screenshots of Design:
 | 1x | PCB | $21.35 | [Link](https://jlcpcb.com) | --- |
 | 1x | 3d Printed Case | --- | --- | I will print it myself |
 | 1x | Raspberry Pi Pico | $3.75 | [Link](https://www.aliexpress.us/item/3256806652932348.html?) | --- |
-| --- | Total | --- | --- | --- |
+| --- | Total | $73.61 | --- | --- |
 
 Screenshots of BOM
