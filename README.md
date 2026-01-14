@@ -10,14 +10,26 @@ Firstly, i want to say that this will be the first PCB that i have ever made and
 
 
 Screenshots of Design: 
-| PCB - Front | PCB - Back |
+| PCB - Front - Rendered | PCB - Back Rendered |
+| :-: | :-: |
+| ![PCB-Front-Rendered](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/Kicad-Stuff/Screenshots_PCB/Screenshot%202026-01-10%20144238.png) | ![PCB-Back-Rendered](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/Kicad-Stuff/Screenshots_PCB/Screenshot%202026-01-10%20144326.png) |
+| PCB - Editor - No-Silk | PCB - Editor - Silk |
+| ![PCB-Editor-No-Silk](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/Kicad-Stuff/Screenshots_files/Screenshot%202026-01-09%20203002.png) | ![PCB-Editor-Silk](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/Kicad-Stuff/Screenshots_files/Screenshot%202026-01-09%20203247.png) |
+
+
+| Schematic | 
+| - |
+| ![Schematic-Img](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/Kicad-Stuff/Screenshots_files/Screenshot%202026-01-01%20163216.png) |
+
+
+| CAD - Render - Main |
+| - |
+| ![CAD-Render-Main](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/CAD-Stuff/Screenshot%202026-01-10%20143353.png) |
+
+
+| CAD - Render - Top | Cad - Render - Bottom |
 | - | - |
-| i | u |
-
-
-
-New Topographic Keycaps 4.0 Version Shine Through 98 Key PBT Cherry Profile Side Print Backlit for MX Gamer Mechanical Keyboard
-
+| ![CAD-Render-Top](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/CAD-Stuff/Screenshot%202026-01-10%20143416.png) | ![CAD-Render-Bottom](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/CAD-Stuff/Screenshot%202026-01-10%20143404.png) |
 
 
 | Amt | Name | Price | Link | Extra |
