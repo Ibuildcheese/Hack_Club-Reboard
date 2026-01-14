@@ -1,10 +1,10 @@
 # The ReBoard
 This is an 87 key custom ANSI mechanical keyboard with a Raspberry Pi Pico microcontroller using QMK Software to program the Pico. All keys in the firmware are 100% ANSI and I am using Cherry MX Blue switches.
 
-## Why/how i made this
+### Why/how i made this
 Firstly, i want to say that this will be the first PCB that i have ever made and it was all because i thought making a new keyboard would be easier than cleaning my old one. My dell keyboard, sk-8125, my dad bought before i was born, and it was discontinued 10 years ago, so i comitted myself to making a keyboard better than something from that time period by myself. Firstly, I looked up a bunch of tutorial videos but since they didn't help me at all i decided to just get started and go from there however, there was a lot of time in between from waiting on a friend to answer a question i had to having to completely scrapping my initial 100% keyboard i had in mind because of some fatal errors i made during the schematic. With the amount of issues and redos i encountered, i never would have thought i'd finish in time, let alone ~15 days before the deadline. Even though all this inexperience did come at a cost (i.e. spending 3 whole days to find a 3d-model of a cherry MX switch) i still cant thank Hack Club enough for giving me the opportunity to actually get started making amazing projects like these and being able to learn and problem solve along the way.
 
-##Completion Chart
+### Completion Chart
 
 | Name | Status | Extra |
 | :-: | :-: | :-: |
@@ -13,9 +13,11 @@ Firstly, i want to say that this will be the first PCB that i have ever made and
 | Case | Designed, not yet printed |  |
 | Firmware | Configured, not yet tested on hardware |  |
 
+___
 
 
-Screenshots of Design: 
+
+## Screenshots of Design: 
 | PCB - Front - Rendered | PCB - Back Rendered |
 | :-: | :-: |
 | ![PCB-Front-Rendered](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/Kicad-Stuff/Screenshots_PCB/Screenshot%202026-01-10%20144238.png) | ![PCB-Back-Rendered](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/Kicad-Stuff/Screenshots_PCB/Screenshot%202026-01-10%20144326.png) |
@@ -37,6 +39,9 @@ Screenshots of Design:
 | - | - |
 | ![CAD-Render-Top](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/CAD-Stuff/Screenshot%202026-01-10%20143416.png) | ![CAD-Render-Bottom](https://github.com/Ibuildcheese/Hack_Club-Reboard/blob/7343492319bec55ae462279876c31e415d880496/CAD-Stuff/Screenshot%202026-01-10%20143404.png) |
 
+___
+
+## BOM
 
 | Amt | Name | Price | Link | Extra |
 | - | - | - | - | - |
